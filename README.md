@@ -7,4 +7,4 @@ Tabuada onde o usário entra um número e tabuada retorna o cálculo multiplicad
 
 Usando funções e condicionais de JavaScript.
 
-![Teste](https://mudivan.github.io/tabuada/)
+[Acessar a Tabuada](https://mudivan.github.io/tabuada/)
